@@ -1,0 +1,10 @@
+.my-div{
+    display: flex;
+    flex-wrap: wrap;
+     
+}
+.gallery{
+
+    margin: 30px; 
+
+}
