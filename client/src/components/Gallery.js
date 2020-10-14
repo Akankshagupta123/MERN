@@ -10,7 +10,7 @@ const Gallery =()=>{
 
    const SearchImage=()=>
    { 
-     This is a change
+     
     
 
    
